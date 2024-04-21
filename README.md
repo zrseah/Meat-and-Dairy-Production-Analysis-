@@ -24,6 +24,7 @@ During its existence from 1922 to 1991, the USSR was the largest transcontinenta
 Both the United States and China stand as the world's most populous countries. As of 2022, the US population stands at 333.3 million, while China's population reaches 1.412 billion. Surprisingly, despite China's threefold greater population compared to the US, its meat production was lower between 1961 and 1990. This discrepancy can be attributed partly to historical events such as the Great Leap Forward, a five-year industrialization plan initiated in China that shifted the focus from agriculture to industry. However, this transition resulted in the Great Chinese Famine, causing an estimated 56 million deaths.
 
 China's agricultural technology and farming techniques initially lagged behind those of the US due to its early economic development stage. However, Deng Xiaoping's reforms in 1978 transitioned China from a planned economy and Maoist ideologies to an open economy, propelling it into one of the world's fastest-growing economies. Consequently, meat production surged between 1977 and 1995, surpassing the US in 1991.
+
 The drop in meat production from 2018 to 2019 resulted from the outbreak of African Swine Fever (ASF) in 2018. ASF, a highly contagious viral disease affecting pigs, led to a massive culling of infected pigs in China, significantly reducing meat production during this period.
 
 ## Recommendation and Conclusion
